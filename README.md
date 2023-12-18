@@ -12,3 +12,5 @@ All code for this project can be found in the Grasslands.ipynb file.
 The Grasslands.ipynb file runs using the [earth-analytics-python-env](https://github.com/earthlab/earth-analytics-python-env/blob/main/environment.yml). Two additional packages need to be downloaded, scikit-fuzzy and rasterio, using the following code:
 conda install -c conda-forge scikit-fuzzy
 conda install -c conda-forge install rasterio
+
+[![DOI](https://zenodo.org/badge/726177777.svg)](https://zenodo.org/doi/10.5281/zenodo.10399407)
